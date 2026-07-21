@@ -26,4 +26,4 @@ This Power BI dashboard analyzes Apple's financial and stock market performance 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard_preview.png)
+![Dashboard](Dashboard.png)
